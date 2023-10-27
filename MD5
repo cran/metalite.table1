@@ -1,0 +1,16 @@
+d0edd765b8c44b992e3bb83e6986e06a *DESCRIPTION
+0bcf7986785ddcf42b47f53ccd320dab *NAMESPACE
+81cc9cda80d802980eeb7bc4bf0ca5f8 *NEWS.md
+48f19959e481ab6e5280b73d2ba3f8f8 *R/interactive_table1.R
+df6cc46bc7fae1a55b713f3d5065b35a *R/metalite.table1-package.R
+68077d959a987b2a44d2c8a932b14367 *R/metalite_table1.R
+172b601a8ae7a5c8a4162ac104713c3e *R/reactable2.R
+a512af847aa344389afd2bd13dd77810 *README.md
+6b48266b602b7789150987602a0bcc15 *build/vignette.rds
+9d8ca2702fc2b2febd4d2763687379f9 *inst/doc/metalite-table1-cran.R
+1c4ab6ee36e8eccfa4ddc798e6089e68 *inst/doc/metalite-table1-cran.Rmd
+cf72fa322bdba8d5a688226ecbc0ebbc *inst/doc/metalite-table1-cran.html
+7bd2f489a73f22557b35dfde03d612ec *man/metalite.table1-package.Rd
+9f04db076aba70e9b508230e305d9640 *man/metalite_table1.Rd
+72718160add31dbd4ffdf4705c121220 *man/metalite_table1_to_html.Rd
+1c4ab6ee36e8eccfa4ddc798e6089e68 *vignettes/metalite-table1-cran.Rmd
