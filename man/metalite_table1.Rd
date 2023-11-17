@@ -10,8 +10,10 @@ metalite_table1(
   id,
   var_listing = NULL,
   total = TRUE,
+  header = NULL,
   download = "none",
-  type = NULL
+  record_name = NULL,
+  ...
 )
 }
 \arguments{
@@ -25,10 +27,15 @@ metalite_table1(
 
 \item{total}{a logical value to display or hide "Total" column.}
 
+\item{header}{a logical vector with length 1 or same length of the variables in \code{formula} to show the \verb{Number of xxx} row of each variable.
+Default is to show the row for the first variable.}
+
 \item{download}{a character value to enable download button. Allowed values include
 "none", "listing", "table", and 'all'.}
 
-\item{type}{a character value to control section title (e.g. "Subjects", "Records").}
+\item{record_name}{a character value to control section title (e.g. "Subjects", "Records").}
+
+\item{...}{additional arguments passed to \code{reactable}. More details refer \url{https://glin.github.io/reactable/reference/reactable.html}}
 }
 \value{
 a \code{shiny.tag.list} object that contain a \code{reactable} HTML widget for

@@ -1,6 +1,6 @@
 Package: metalite.table1
 Title: Interactive Table of Descriptive Statistics in HTML
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c( 
     person("Yilong", "Zhang", email = "elong0527@gmail.com", role = c("aut", "cre"))
     )
@@ -13,8 +13,8 @@ Imports: metalite, reactable, htmltools
 Suggests: knitr, r2rtf, table1, devtools, ggplot2
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-10-27 04:20:15 UTC; r220573
+Packaged: 2023-11-16 02:28:37 UTC; r220573
 Author: Yilong Zhang [aut, cre]
 Maintainer: Yilong Zhang <elong0527@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-10-27 08:00:06 UTC
+Date/Publication: 2023-11-17 05:20:02 UTC
