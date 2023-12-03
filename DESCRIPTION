@@ -1,6 +1,6 @@
 Package: metalite.table1
 Title: Interactive Table of Descriptive Statistics in HTML
-Version: 0.2.0
+Version: 0.3.0
 Authors@R: c( 
     person("Yilong", "Zhang", email = "elong0527@gmail.com", role = c("aut", "cre"))
     )
@@ -9,12 +9,12 @@ Description: Create an interactive table of descriptive statistics in HTML.
 License: GPL (>= 3)
 Encoding: UTF-8
 RoxygenNote: 7.2.3
-Imports: metalite, reactable, htmltools
-Suggests: knitr, r2rtf, table1, devtools, ggplot2
+Imports: metalite, reactable, htmltools, r2rtf, jsonlite
+Suggests: knitr, table1, devtools, ggplot2
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2023-11-16 02:28:37 UTC; r220573
+Packaged: 2023-12-03 21:18:08 UTC; r220573
 Author: Yilong Zhang [aut, cre]
 Maintainer: Yilong Zhang <elong0527@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-11-17 05:20:02 UTC
+Date/Publication: 2023-12-03 21:30:02 UTC
